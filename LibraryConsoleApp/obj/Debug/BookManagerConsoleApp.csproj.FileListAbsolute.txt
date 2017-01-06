@@ -1,0 +1,8 @@
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\LibraryConsoleApp\bin\Debug\BookManagerConsoleApp.exe.config
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\LibraryConsoleApp\bin\Debug\BookManagerConsoleApp.exe
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\LibraryConsoleApp\bin\Debug\BookManagerConsoleApp.pdb
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\LibraryConsoleApp\bin\Debug\BookManagerLibrary.dll
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\LibraryConsoleApp\bin\Debug\BookManagerLibrary.pdb
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\LibraryConsoleApp\obj\Debug\BookManagerConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\LibraryConsoleApp\obj\Debug\BookManagerConsoleApp.exe
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\LibraryConsoleApp\obj\Debug\BookManagerConsoleApp.pdb

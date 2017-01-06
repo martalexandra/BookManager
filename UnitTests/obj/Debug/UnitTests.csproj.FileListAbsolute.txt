@@ -1,0 +1,9 @@
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\UnitTests\bin\Debug\UnitTests.dll
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\UnitTests\bin\Debug\BookManagerLibrary.dll
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\UnitTests\bin\Debug\nunit.framework.dll
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\UnitTests\bin\Debug\BookManagerLibrary.pdb
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\UnitTests\bin\Debug\nunit.framework.xml
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\UnitTests\obj\Debug\UnitTests.dll
+c:\users\martaalexandra\documents\visual studio 2015\Projects\BookManagerLibrary\UnitTests\obj\Debug\UnitTests.pdb
