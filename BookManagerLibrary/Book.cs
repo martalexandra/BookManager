@@ -8,15 +8,15 @@ namespace BookManagerLibrary
     {
         public string Isbn { get; private set; }
 
-        public string Title { get; internal set; }
-        public string SubTitle { get; internal set; }
-        public IEnumerable<string> Authores { get; internal set; } = new List<String>();
-        public string Publisher { get; internal set; }
-        public int Edition { get; internal set; }
-        public int Year { get; internal set; }
-        public EditionType Type { get; internal set; }
+        public string Title { get; set; }
+        public string SubTitle { get; set; }
+        public IEnumerable<string> Authores { get; set; } = new List<String>();
+        public string Publisher { get; set; }
+        public int Edition { get; set; }
+        public int Year { get; set; }
+        public EditionType Type { get; set; }
 
-        internal Book(string isbn)
+        public Book(string isbn)
         {
             Isbn = isbn;
         }
@@ -49,7 +49,7 @@ namespace BookManagerLibrary
             return $"{Title} {SubTitle ?? string.Empty} {Authores.First()} {Publisher} {Edition} {Year} {Type}";
         }
 
-        internal bool IsEditionOf(Book otherBook)
+        public bool IsEditionOf(Book otherBook)
         {
             return Title.Equals(otherBook.Title)
                 && (SubTitle?.Equals(otherBook.SubTitle) ?? otherBook.SubTitle == null)
